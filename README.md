@@ -122,6 +122,6 @@ As demais lojas demonstraram resultados estáveis e desempenho consistente, reco
 
 **Letícia Schulz Bonifazio**  
 📧 [lsbonifazio@gmail.com](mailto:lsbonifazio@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/leticia-schulz-bonifazio)  
+💼 [LinkedIn](https://www.linkedin.com/in/lsbonifazio)  
 📍 São Paulo — Brasil  
 🧠 Programa **Oracle Next Education (ONE)** — Especialização em **Data Science (Alura)**
