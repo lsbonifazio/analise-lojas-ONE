@@ -72,18 +72,23 @@ Todas as lojas apresentam **alcance geográfico semelhante**, indicando que **a 
 
 ## 📂 Estrutura do Projeto
 
-📁 analise-lojas
-├── 📄 README.md
-├── 📄 analise_lojas.ipynb
-├── 📊 dados_lojas.csv (ou .xlsx)
-├── 📁 imagens/
-│ ├── heatmap_loja1.png
-│ ├── heatmap_loja2.png
-│ ├── grafico_faturamento.png
-│ └── grafico_avaliacao.png
-└── 📁 outputs/
-├── tabela_faturamento.csv
-└── tabela_avaliacoes.csv
+```
+analise-lojas/
+│
+├── README.md
+├── analise_lojas.ipynb
+├── dados_lojas.csv  (ou .xlsx)
+│
+├── imagens/
+│   ├── heatmap_loja1.png
+│   ├── heatmap_loja2.png
+│   ├── grafico_faturamento.png
+│   └── grafico_avaliacao.png
+│
+└── outputs/
+    ├── tabela_faturamento.csv
+    └── tabela_avaliacoes.csv
+```
 
 ---
 
@@ -105,7 +110,7 @@ Todas as lojas apresentam **alcance geográfico semelhante**, indicando que **a 
 
 ---
 
-##🧾 Conclusão
+## 🧾 Conclusão
 
 Com base nas análises realizadas, a Loja 4 apresentou o pior desempenho geral, com menor faturamento e avaliações ligeiramente inferiores.
 Portanto, é a mais indicada para venda.
@@ -113,10 +118,10 @@ As demais lojas demonstraram resultados estáveis e desempenho consistente, reco
 
 ---
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 
-Letícia Schulz Bonifazio
-📧 lsbonifazio@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/lsbonifazio)
-📍 São Paulo — Brasil
-🧠 Programa Oracle Next Education (ONE) — Especialização em Data Science (Alura)
+**Letícia Schulz Bonifazio**  
+📧 [lsbonifazio@gmail.com](mailto:lsbonifazio@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/leticia-schulz-bonifazio)  
+📍 São Paulo — Brasil  
+🧠 Programa **Oracle Next Education (ONE)** — Especialização em **Data Science (Alura)**
