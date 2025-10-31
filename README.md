@@ -73,7 +73,7 @@ Todas as lojas apresentam **alcance geográfico semelhante**, indicando que **a 
 ## 📂 Estrutura do Projeto
 
 ```
-analise-lojas/
+analise-lojas-ONE/
 │
 ├── README.md
 ├── analise_lojas.ipynb
