@@ -94,24 +94,26 @@ Todas as lojas apresentam **alcance geográfico semelhante**, indicando que **a 
    git clone https://github.com/seuusuario/analise-lojas.git
    ```
 2. Instale as dependências:
-  ```
-  pip install pandas matplotlib seaborn folium geopandas
-  ```
+   ```
+   pip install pandas matplotlib seaborn folium geopandas
+   ```
 3. Abra o notebook:
-  ```
-  jupyter notebook analise_lojas.ipynb
-  ```
+   ```
+   jupyter notebook analise_lojas.ipynb
+   ```
 4. Execute as células em sequência para reproduzir as análises e visualizações.
 
+---
 
-
-🧾 Conclusão
+##🧾 Conclusão
 
 Com base nas análises realizadas, a Loja 4 apresentou o pior desempenho geral, com menor faturamento e avaliações ligeiramente inferiores.
 Portanto, é a mais indicada para venda.
 As demais lojas demonstraram resultados estáveis e desempenho consistente, recomendando-se sua manutenção.
 
-👩‍💻 Autora
+---
+
+##👩‍💻 Autora
 
 Letícia Schulz Bonifazio
 📧 lsbonifazio@gmail.com
