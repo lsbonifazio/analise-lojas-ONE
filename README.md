@@ -83,14 +83,16 @@ analise-lojas-ONE/
 ├── dados_loja4.csv
 │
 ├── imagens/
-│   ├── heatmap_loja1.png
-│   ├── heatmap_loja2.png
+│   ├── grafico_avaliacoes.png
 │   ├── grafico_faturamento.png
-│   └── grafico_avaliacao.png
+│   ├── grafico_frete.png
+│   ├── produtos_mais_vendidos.png
+│   ├── produtos_menos_vendidos.png
+│   ├── heatmap_vendas_categoria.png
+│   └── heatmap_vendas_Brasil.png
 │
 └── outputs/
-    ├── tabela_faturamento.csv
-    └── tabela_avaliacoes.csv
+    └── relatorio_avaliacao.pdf
 ```
 
 ---
