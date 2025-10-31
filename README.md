@@ -77,7 +77,10 @@ analise-lojas-ONE/
 │
 ├── README.md
 ├── analise_lojas.ipynb
-├── dados_lojas.csv  (ou .xlsx)
+├── dados_loja1.csv
+├── dados_loja2.csv
+├── dados_loja3.csv
+├── dados_loja4.csv
 │
 ├── imagens/
 │   ├── heatmap_loja1.png
