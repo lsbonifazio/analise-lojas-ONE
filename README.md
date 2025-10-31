@@ -1,4 +1,4 @@
-# 🏪 Análise de Desempenho das Lojas — Desafio Oracle Next Education (Alura)
+# 🏪 Análise de Desempenho das Lojas — Desafio ONE + Alura
 
 Este projeto foi desenvolvido como parte do **programa Oracle Next Education (ONE)**, em parceria com a **Alura**, durante a fase de **especialização em Data Science**.  
 Nessa etapa, estou **aprendendo e aplicando conceitos de Python e Pandas** para realizar análises de dados e criar visualizações que apoiam a tomada de decisão.
