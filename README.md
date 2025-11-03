@@ -86,10 +86,10 @@ analise-lojas-ONE/
 │   ├── grafico_avaliacoes.png
 │   ├── grafico_faturamento.png
 │   ├── grafico_frete.png
-│   ├── produtos_mais_vendidos.png
-│   ├── produtos_menos_vendidos.png
+│   ├── heatmap_vendas_Brasil.png
 │   ├── heatmap_vendas_categoria.png
-│   └── heatmap_vendas_Brasil.png
+│   ├── produtos_mais_vendidos.png
+│   └── produtos_menos_vendidos.png
 │
 └── outputs/
     └── relatorio_avaliacao.pdf
